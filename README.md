@@ -1,0 +1,8 @@
+- create o mysql baza de date sub numele : "pretestare"
+- creati un tabel "feedback" cu coloanele : id,adresa,email,mesaj,subiect,nume_companie
+- in folderul proiectului lansati : yarn sau npm install
+- in folderul "client" lansati : yarn sau npm install
+- reveniti in mapa proiectului
+- pentru pornire front-end lansati : yarn client
+- pentru pornire back-end lansati : yarn server
+- pentru front + back : yarn start
